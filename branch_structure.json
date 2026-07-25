@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "task/prom-histogram"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "task/prom-histogram": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "task/prom-histogram"
+  ]
+}
